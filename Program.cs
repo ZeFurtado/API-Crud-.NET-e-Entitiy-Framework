@@ -18,7 +18,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+//Configura as rotas
 app.AddRotasEstudantes();
 
 app.Run();
-
