@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lukhas/Desktop/WebApps/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj": {}
+    "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj": {}
   },
   "projects": {
-    "/home/lukhas/Desktop/WebApps/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj": {
+    "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lukhas/Desktop/WebApps/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
+        "projectUniqueName": "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
         "projectName": "ApiCrud",
-        "projectPath": "/home/lukhas/Desktop/WebApps/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
+        "projectPath": "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
         "packagesPath": "/home/lukhas/.nuget/packages/",
-        "outputPath": "/home/lukhas/Desktop/WebApps/API-Crud-.NET-e-Entitiy-Framework/obj/",
+        "outputPath": "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lukhas/.nuget/NuGet/NuGet.Config"
