@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gc/UpnzRFt+L4lHxG8St2Ev+FLMnkEXR581AMyYsgZy2KsglPguhxlWCD3DXwWIkNGHPXx36/IVNlH9BD9cyRA==",
+  "dgSpecHash": "5mc91pJjN+vOP/Jk5QZIMQmA1VRnnvz7YPbG74YfVSVfMFJ/bSoS6x47SzhN33kbSVuJkf3HDGwqv5D1wRs+6w==",
   "success": true,
-  "projectFilePath": "/home/lukhas/Desktop/repo/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
+  "projectFilePath": "/home/lukhas/Desktop/API-CRUD-EFCore/ApiCrud.csproj",
   "expectedPackageFiles": [
     "/home/lukhas/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/lukhas/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",

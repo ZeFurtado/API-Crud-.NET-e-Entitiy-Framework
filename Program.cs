@@ -24,3 +24,5 @@ app.UseHttpsRedirection();
 app.AddRotasEstudantes();
 
 app.Run();
+
+//Teste para commit
