@@ -2981,11 +2981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
+      "projectUniqueName": "/home/lukhas/Desktop/repo/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
       "projectName": "ApiCrud",
-      "projectPath": "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
+      "projectPath": "/home/lukhas/Desktop/repo/API-Crud-.NET-e-Entitiy-Framework/ApiCrud.csproj",
       "packagesPath": "/home/lukhas/.nuget/packages/",
-      "outputPath": "/home/lukhas/Documents/Projetos/DotNetProjs/WebApp/API-Crud-.NET-e-Entitiy-Framework/obj/",
+      "outputPath": "/home/lukhas/Desktop/repo/API-Crud-.NET-e-Entitiy-Framework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lukhas/.nuget/NuGet/NuGet.Config"
